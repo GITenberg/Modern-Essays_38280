@@ -4,14 +4,14 @@ contributor:
   contributors:
   - agent_name: Kilmer, Joyce
     alias: Kilmer, Alfred Joyce
-    birthdate: &id009 1886
+    birthdate: 1886
     deathdate: 1918
     gutenberg_agent_id: '149'
     url: http://www.gutenberg.org/2009/agents/149
     wikipedia: http://en.wikipedia.org/wiki/Joyce_Kilmer
   - agent_name: Herbert, A. P. (Alan Patrick)
     alias: Herbert, Alan Patrick, Sir
-    birthdate: &id013 1890
+    birthdate: 1890
     deathdate: 1971
     gutenberg_agent_id: '37508'
     url: http://www.gutenberg.org/2009/agents/37508
@@ -24,7 +24,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/4608
     wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
   - agent_name: Dounce, Harry Esty
-    birthdate: &id010 1889
+    birthdate: 1889
     gutenberg_agent_id: '39372'
     url: http://www.gutenberg.org/2009/agents/39372
   - agent_name: Utter, Robert Palfrey
@@ -34,13 +34,13 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39371
   - agent_name: Macy, John Albert
     birthdate: 1877
-    deathdate: &id001 1932
+    deathdate: 1932
     gutenberg_agent_id: '897'
     url: http://www.gutenberg.org/2009/agents/897
   - agent_name: Firkins, Oscar W.
     alias: Firkins, O. W. (Oscar W.)
     birthdate: 1864
-    deathdate: *id001
+    deathdate: 1932
     gutenberg_agent_id: '39365'
     url: http://www.gutenberg.org/2009/agents/39365
   - agent_name: Brooke, Rupert
@@ -59,7 +59,7 @@ contributor:
     aliases:
     - Russell, Bertrand Russell, 3d Earl
     - Russell, Bertrand A. W. (Bertrand Arthur William)
-    birthdate: &id002 1872
+    birthdate: 1872
     deathdate: 1970
     gutenberg_agent_id: '355'
     url: http://www.gutenberg.org/2009/agents/355
@@ -90,7 +90,7 @@ contributor:
   - agent_name: Leacock, Stephen
     alias: Leacock, Stephen Butler
     birthdate: 1869
-    deathdate: &id005 1944
+    deathdate: 1944
     gutenberg_agent_id: '1221'
     url: http://www.gutenberg.org/2009/agents/1221
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
@@ -104,15 +104,15 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39368
     wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
   - agent_name: White, Stewart Edward
-    birthdate: &id003 1873
-    deathdate: &id006 1946
+    birthdate: 1873
+    deathdate: 1946
     gutenberg_agent_id: '247'
     url: http://www.gutenberg.org/2009/agents/247
     wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
   - agent_name: Beerbohm, Max, Sir
     alias: Beerbohm, Henry Maximilian, Sir
-    birthdate: *id002
-    deathdate: &id007 1956
+    birthdate: 1872
+    deathdate: 1956
     gutenberg_agent_id: '397'
     url: http://www.gutenberg.org/2009/agents/397
     wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
@@ -124,8 +124,8 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/35272
   - agent_name: Tomlinson, H. M. (Henry Major)
     alias: Tomlinson, Henry Major
-    birthdate: *id003
-    deathdate: &id004 1958
+    birthdate: 1873
+    deathdate: 1958
     gutenberg_agent_id: '5787'
     url: http://www.gutenberg.org/2009/agents/5787
     wikipedia: http://en.wikipedia.org/wiki/H._M._Tomlinson
@@ -146,21 +146,21 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39369
   - agent_name: Cabell, James Branch
     alias: Cabell, Branch
-    birthdate: &id008 1879
-    deathdate: *id004
+    birthdate: 1879
+    deathdate: 1958
     gutenberg_agent_id: '166'
     url: http://www.gutenberg.org/2009/agents/166
     wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
   - agent_name: White, William Allen
     alias: White, W. A. (William Allen)
     birthdate: 1868
-    deathdate: *id005
+    deathdate: 1944
     gutenberg_agent_id: '1822'
     url: http://www.gutenberg.org/2009/agents/1822
     wikipedia: http://en.wikipedia.org/wiki/William_Allen_White
   - agent_name: McFee, William
     alias: McFee, William Morley Punshon
-    birthdate: &id011 1881
+    birthdate: 1881
     deathdate: 1966
     gutenberg_agent_id: '34733'
     url: http://www.gutenberg.org/2009/agents/34733
@@ -170,7 +170,7 @@ contributor:
     - Smith, L. Pearsall (Logan Pearsall)
     - Smith, Lloyd Logan Pearsall
     birthdate: 1865
-    deathdate: *id006
+    deathdate: 1946
     gutenberg_agent_id: '2793'
     url: http://www.gutenberg.org/2009/agents/2793
     wikipedia: http://en.wikipedia.org/wiki/Logan_Pearsall_Smith
@@ -179,26 +179,26 @@ contributor:
     - Miln, Alen Aleksander
     - Milne, Alan Alexander
     birthdate: 1882
-    deathdate: *id007
+    deathdate: 1956
     gutenberg_agent_id: '730'
     url: http://www.gutenberg.org/2009/agents/730
     wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
   - agent_name: Strunsky, Simeon
-    birthdate: *id008
-    deathdate: &id012 1948
+    birthdate: 1879
+    deathdate: 1948
     gutenberg_agent_id: '8616'
     url: http://www.gutenberg.org/2009/agents/8616
     wikipedia: http://en.wikipedia.org/wiki/Simeon_Strunsky
   - agent_name: Burke, Thomas
     alias: Burke, Sydney Thomas
-    birthdate: *id009
+    birthdate: 1886
     deathdate: 1945
     gutenberg_agent_id: '839'
     url: http://www.gutenberg.org/2009/agents/839
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Burke_%28author%29
   - agent_name: Guedalla, Philip
-    birthdate: *id010
-    deathdate: *id005
+    birthdate: 1889
+    deathdate: 1944
     gutenberg_agent_id: '39370'
     url: http://www.gutenberg.org/2009/agents/39370
     wikipedia: http://en.wikipedia.org/wiki/Philip_Guedalla
@@ -217,13 +217,13 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/245
     wikipedia: http://en.wikipedia.org/wiki/Don_Marquis
   - agent_name: Ayres, Harry Morgan
-    birthdate: *id011
-    deathdate: *id012
+    birthdate: 1881
+    deathdate: 1948
     gutenberg_agent_id: '39366'
     url: http://www.gutenberg.org/2009/agents/39366
   - agent_name: Sherman, Stuart Pratt
     alias: Sherman, S. P. (Stuart Pratt)
-    birthdate: *id011
+    birthdate: 1881
     deathdate: 1926
     gutenberg_agent_id: '39367'
     url: http://www.gutenberg.org/2009/agents/39367
@@ -235,12 +235,14 @@ creator:
   editor:
     agent_name: Morley, Christopher
     alias: Morley, Christopher Darlington
-    birthdate: *id013
+    birthdate: 1890
     deathdate: 1957
     gutenberg_agent_id: '109'
     url: http://www.gutenberg.org/2009/agents/109
     wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38280#Modern-Essays
 gutenberg_issued: '2011-12-11'
 gutenberg_type: Text
 identifiers:
