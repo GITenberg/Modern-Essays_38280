@@ -1,0 +1,274 @@
+_repo: Modern-Essays_38280
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: &id009 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: http://en.wikipedia.org/wiki/Joyce_Kilmer
+  - agent_name: Herbert, A. P. (Alan Patrick)
+    alias: Herbert, Alan Patrick, Sir
+    birthdate: &id013 1890
+    deathdate: 1971
+    gutenberg_agent_id: '37508'
+    url: http://www.gutenberg.org/2009/agents/37508
+    wikipedia: http://en.wikipedia.org/wiki/A._P._Herbert
+  - agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+  - agent_name: Dounce, Harry Esty
+    birthdate: &id010 1889
+    gutenberg_agent_id: '39372'
+    url: http://www.gutenberg.org/2009/agents/39372
+  - agent_name: Utter, Robert Palfrey
+    birthdate: 1875
+    deathdate: 1936
+    gutenberg_agent_id: '39371'
+    url: http://www.gutenberg.org/2009/agents/39371
+  - agent_name: Macy, John Albert
+    birthdate: 1877
+    deathdate: &id001 1932
+    gutenberg_agent_id: '897'
+    url: http://www.gutenberg.org/2009/agents/897
+  - agent_name: Firkins, Oscar W.
+    alias: Firkins, O. W. (Oscar W.)
+    birthdate: 1864
+    deathdate: *id001
+    gutenberg_agent_id: '39365'
+    url: http://www.gutenberg.org/2009/agents/39365
+  - agent_name: Brooke, Rupert
+    birthdate: 1887
+    deathdate: 1915
+    gutenberg_agent_id: '148'
+    url: http://www.gutenberg.org/2009/agents/148
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Brooke
+  - agent_name: Osler, William
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '660'
+    url: http://www.gutenberg.org/2009/agents/660
+    wikipedia: http://en.wikipedia.org/wiki/William_Osler
+  - agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: &id002 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+  - agent_name: Broun, Heywood
+    alias: Broun, Heywood Campbell
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '5623'
+    url: http://www.gutenberg.org/2009/agents/5623
+    wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
+  - agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+  - agent_name: Santayana, George
+    aliases:
+    - Santayana, Jorge
+    - Santayana, Georgius
+    birthdate: 1863
+    deathdate: 1952
+    gutenberg_agent_id: '5805'
+    url: http://www.gutenberg.org/2009/agents/5805
+    wikipedia: http://en.wikipedia.org/wiki/George_Santayana
+  - agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: &id005 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+  - agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L.I.
+    - Guiney, L. I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+  - agent_name: White, Stewart Edward
+    birthdate: &id003 1873
+    deathdate: &id006 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
+  - agent_name: Beerbohm, Max, Sir
+    alias: Beerbohm, Henry Maximilian, Sir
+    birthdate: *id002
+    deathdate: &id007 1956
+    gutenberg_agent_id: '397'
+    url: http://www.gutenberg.org/2009/agents/397
+    wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
+  - agent_name: Bone, David W. (David William)
+    alias: Bone, David William, Sir
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '35272'
+    url: http://www.gutenberg.org/2009/agents/35272
+  - agent_name: Tomlinson, H. M. (Henry Major)
+    alias: Tomlinson, Henry Major
+    birthdate: *id003
+    deathdate: &id004 1958
+    gutenberg_agent_id: '5787'
+    url: http://www.gutenberg.org/2009/agents/5787
+    wikipedia: http://en.wikipedia.org/wiki/H._M._Tomlinson
+  - agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+  - agent_name: Storm, Marian
+    birthdate: 1891
+    deathdate: 1975
+    gutenberg_agent_id: '39369'
+    url: http://www.gutenberg.org/2009/agents/39369
+  - agent_name: Cabell, James Branch
+    alias: Cabell, Branch
+    birthdate: &id008 1879
+    deathdate: *id004
+    gutenberg_agent_id: '166'
+    url: http://www.gutenberg.org/2009/agents/166
+    wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
+  - agent_name: White, William Allen
+    alias: White, W. A. (William Allen)
+    birthdate: 1868
+    deathdate: *id005
+    gutenberg_agent_id: '1822'
+    url: http://www.gutenberg.org/2009/agents/1822
+    wikipedia: http://en.wikipedia.org/wiki/William_Allen_White
+  - agent_name: McFee, William
+    alias: McFee, William Morley Punshon
+    birthdate: &id011 1881
+    deathdate: 1966
+    gutenberg_agent_id: '34733'
+    url: http://www.gutenberg.org/2009/agents/34733
+    wikipedia: http://en.wikipedia.org/wiki/William_McFee
+  - agent_name: Smith, Logan Pearsall
+    aliases:
+    - Smith, L. Pearsall (Logan Pearsall)
+    - Smith, Lloyd Logan Pearsall
+    birthdate: 1865
+    deathdate: *id006
+    gutenberg_agent_id: '2793'
+    url: http://www.gutenberg.org/2009/agents/2793
+    wikipedia: http://en.wikipedia.org/wiki/Logan_Pearsall_Smith
+  - agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Miln, Alen Aleksander
+    - Milne, Alan Alexander
+    birthdate: 1882
+    deathdate: *id007
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+  - agent_name: Strunsky, Simeon
+    birthdate: *id008
+    deathdate: &id012 1948
+    gutenberg_agent_id: '8616'
+    url: http://www.gutenberg.org/2009/agents/8616
+    wikipedia: http://en.wikipedia.org/wiki/Simeon_Strunsky
+  - agent_name: Burke, Thomas
+    alias: Burke, Sydney Thomas
+    birthdate: *id009
+    deathdate: 1945
+    gutenberg_agent_id: '839'
+    url: http://www.gutenberg.org/2009/agents/839
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Burke_%28author%29
+  - agent_name: Guedalla, Philip
+    birthdate: *id010
+    deathdate: *id005
+    gutenberg_agent_id: '39370'
+    url: http://www.gutenberg.org/2009/agents/39370
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Guedalla
+  - agent_name: Holliday, Robert Cortes
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5191'
+    url: http://www.gutenberg.org/2009/agents/5191
+  - agent_name: Marquis, Don
+    aliases:
+    - Marquis, D. R. (Donald Robert)
+    - Marquis, Donald Robert Perry
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '245'
+    url: http://www.gutenberg.org/2009/agents/245
+    wikipedia: http://en.wikipedia.org/wiki/Don_Marquis
+  - agent_name: Ayres, Harry Morgan
+    birthdate: *id011
+    deathdate: *id012
+    gutenberg_agent_id: '39366'
+    url: http://www.gutenberg.org/2009/agents/39366
+  - agent_name: Sherman, Stuart Pratt
+    alias: Sherman, S. P. (Stuart Pratt)
+    birthdate: *id011
+    deathdate: 1926
+    gutenberg_agent_id: '39367'
+    url: http://www.gutenberg.org/2009/agents/39367
+    wikipedia: http://en.wikipedia.org/wiki/Stuart_Sherman
+covers:
+- cover_type: archival
+  image_path: 38280-h/images/cover_lg.jpg
+creator:
+  editor:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: *id013
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_issued: '2011-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- !lcsh 'American essays'
+- !lcc 'PS'
+tableOfContents: American literature / John Macy -- Mary White / William Allen White
+  -- Niagara Falls / Rupert Brooke -- The almost perfect state / Don Marquis -- "The
+  man o' war's 'er 'usband" / David W. Bone -- The market / William McFee -- Holy
+  Ireland / Joyce Kilmer -- A familiar preface / Joseph Conrad -- On drawing / A.P.
+  Herbert -- O. Henry / O.W. Firkins -- The mowing of a field / Hilaire Belloc --
+  The student life / William Osler -- The decline of drama / Stephen Leacock -- America
+  and the English tradition / Harry Morgan Ayres -- The Russian quarter / Thomas Burke
+  -- A word for autumn / A.A. Milne -- "A clergyman" / Max Beerbohm -- Samuel Butler
+  / Stuart P. Sherman -- Bed-books and night-lights / H.M. Tomlinson -- The precept
+  of peace / Louise Imogen Guiney -- On lying awake at night / Stewart Edward White
+  -- A woodland Valentine / Marian Storm -- The elements of poetry / George Santayana
+  -- Nocturne / Simeon Strunsky -- Beer and cider / George Saintsbury -- A free man's
+  worship / Bertrand Russell -- Some historians / Philip Guedalla -- Winter mist /
+  Robert Palfrey Utter -- Trivia / Logan Pearsall Smith -- Beyond life / James Branch
+  Cabell -- The fish reporter / Robert Costes Holliday -- Some nonsense about a dog
+  / Harry Esty Dounce -- The fifty-first dragon / Heywood Broun.
+title: Modern Essays
+url: http://www.gutenberg.org/ebooks/38280
